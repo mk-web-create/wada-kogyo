@@ -1,0 +1,83 @@
+{
+  "source_page": "https://shiraishi73.wixsite.com/website",
+  "checked_on": "2026-09-08",
+  "images": [
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_dc2c44d09f1d46fc9b8c4765a2f29f9d~mv2.jpg",
+      "label": "HP画像01.jpg",
+      "file": "assets/hero.webp",
+      "width": 800,
+      "height": 594
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_88936e29ebd5424fb76509356297588b~mv2.jpg",
+      "label": "HP画像02.jpg",
+      "file": "assets/scene.webp",
+      "width": 795,
+      "height": 530
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_10c73976aa2c4dcea75b06a39d51c76b~mv2.jpg",
+      "label": "開発・造成03.jpg",
+      "file": "assets/development.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_4a7d2e59f3434f728f0d950dbedff508~mv2.jpg",
+      "label": "さく井（機械堀）03.jpg",
+      "file": "assets/well-machine.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_67fc755b17e844bf9a9335972cae6108~mv2.jpg",
+      "label": "さく井（人力）03.jpg",
+      "file": "assets/well-manual.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_b181d016b5004360a2d68094a2735bc2~mv2.jpg",
+      "label": "ライナー立坑03.jpg",
+      "file": "assets/shaft.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_bd9f706d24674ac1bb8ecdcd5e6f8a7a~mv2.jpg",
+      "label": "擁壁03.jpg",
+      "file": "assets/retaining-wall.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_da725228591f475bb99954f7c82b5406~mv2.jpg",
+      "label": "解体03.jpg",
+      "file": "assets/demolition.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_286e28a9b1064d2ebb41fff68fd1fc0c~mv2.jpg",
+      "label": "建築03.jpg",
+      "file": "assets/building.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_fa170059462249caba0b2165cc00e6e7~mv2.jpg",
+      "label": "リフォーム03.jpg",
+      "file": "assets/renovation.webp",
+      "width": 940,
+      "height": 450
+    },
+    {
+      "url": "https://static.wixstatic.com/media/f56e13_13bf3ce744ea4e05bbd3d0402d5d7b4e~mv2.jpg",
+      "label": "エクステリア03.jpg",
+      "file": "assets/exterior.webp",
+      "width": 940,
+      "height": 450
+    }
+  ]
+}
